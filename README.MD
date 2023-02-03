@@ -28,13 +28,13 @@ sudo apt install git
 sudo apt install perl
 
 # Git Clone
-git clone https://github.com/R3DHULK/subdomain-scanner-in-perl
+git clone https://github.com/R3DHULK/web-scrapper-in-perl
 
 # Change Directory
-cd subdomain-scanner-in-perl
+cd web-scrapper-in-perl
 
 # To Run This Tool
-perl subdomain-scanner.pl
+perl web-scrapper-in-perl.pl example.com
 
 ```
 
